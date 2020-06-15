@@ -1,0 +1,9 @@
+com\taller\spring\controller\TrabajadorController.class
+com\taller\spring\service\TrabajadorServiceImp.class
+com\taller\spring\model\Trabajador.class
+com\taller\spring\service\TrabajadorService.class
+com\taller\spring\config\WebConfig.class
+com\taller\spring\dao\TrabajadorDao.class
+com\taller\spring\dao\TrabajadorDaoImp.class
+com\taller\spring\config\AppConfig.class
+com\taller\spring\config\MyWebAppInitializer.class
